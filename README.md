@@ -1,5 +1,7 @@
+# MuLab Library
+
+In attempt to make planning literature more accessible
+
 # urban-theme
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
-
-Live-Demo: https://narkotyk.netlify.app
+This website theme is a Jekyll port of http://erosie.net/ with some modifications. Generated from https://github.com/midzer/urban-theme.
