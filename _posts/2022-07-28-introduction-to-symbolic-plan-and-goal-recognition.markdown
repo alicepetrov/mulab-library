@@ -6,7 +6,7 @@ image: "/assets/images/textbooks/introduction-to-symbolic-plan-and-goal-recognit
 ---
 
 {:refdef: style="text-align: center;"}
-![introduction-to-symbolic-plan-and-goal-recognition](/assets/images/textbooks/introduction-to-symbolic-plan-and-goal-recognition.jpg)
+![introduction-to-symbolic-plan-and-goal-recognition]({{site.baseurl}}/assets/images/textbooks/introduction-to-symbolic-plan-and-goal-recognition.jpg)
 {: refdef}
 
 https://www.morganclaypool.com/doi/10.2200/S01062ED1V01Y202012AIM047

@@ -6,7 +6,7 @@ image: "/assets/images/textbooks/a-concise-introduction-to-models-and-methods-fo
 ---
 
 {:refdef: style="text-align: center;"}
-![a-concise-introduction-to-models-and-methods-for-automated-planning](/assets/images/textbooks/a-concise-introduction-to-models-and-methods-for-automated-planning.jpg)
+![a-concise-introduction-to-models-and-methods-for-automated-planning]({{site.baseurl}}/assets/images/textbooks/a-concise-introduction-to-models-and-methods-for-automated-planning.jpg)
 {: refdef}
 
 https://www.morganclaypool.com/doi/abs/10.2200/S00513ED1V01Y201306AIM022

@@ -6,7 +6,7 @@ image: "/assets/images/textbooks/planning-algorithms.jpg"
 ---
 
 {:refdef: style="text-align: center;"}
-![planning-algorithms](/assets/images/textbooks/planning-algorithms.jpg)
+![planning-algorithms]({{site.baseurl}}/assets/images/textbooks/planning-algorithms.jpg)
 {: refdef}
 
 http://lavalle.pl/planning/

@@ -9,6 +9,8 @@ image: "/assets/images/textbooks/automated-planning-theory-and-practice.jpg"
 ![automated-planning-theory-and-practice]({{site.baseurl}}/assets/images/textbooks/automated-planning-theory-and-practice.jpg)
 {: refdef}
 
+https://projects.laas.fr/planning/aptp/index.html
+
 Automated planning technology now plays a significant role in a variety of demanding applications, ranging from controlling space vehicles and robots to playing the game of bridge. These real-world applications create new opportunities for synergy between theory and practice: observing what works well in practice leads to better theories of planning, and better theories lead to better performance of practical applications.
 
 Automated Planning mirrors this dialogue by offering a comprehensive, up-to-date resource on both the theory and practice of automated planning. The book goes well beyond classical planning, to include temporal planning, resource scheduling, planning under uncertainty, and modern techniques for plan generation, such as task decomposition, propositional satisfiability, constraint satisfaction, and model checking.

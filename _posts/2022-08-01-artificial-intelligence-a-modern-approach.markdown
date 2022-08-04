@@ -6,7 +6,7 @@ image: "/assets/images/textbooks/artificial-intelligence-a-modern-approach.jpg"
 ---
 
 {:refdef: style="text-align: center;"}
-![artificial-intelligence-a-modern-approach](/assets/images/textbooks/artificial-intelligence-a-modern-approach.jpg)
+![artificial-intelligence-a-modern-approach]({{site.baseurl}}/assets/images/textbooks/artificial-intelligence-a-modern-approach.jpg)
 {: refdef}
 
 http://aima.cs.berkeley.edu/

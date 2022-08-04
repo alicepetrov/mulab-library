@@ -6,7 +6,7 @@ image: "/assets/images/textbooks/automated-planning-and-acting.jpg"
 ---
 
 {:refdef: style="text-align: center;"}
-![automated-planning-and-acting](/assets/images/textbooks/automated-planning-and-acting.jpg)
+![automated-planning-and-acting]({{site.baseurl}}/assets/images/textbooks/automated-planning-and-acting.jpg)
 {: refdef}
 
 https://projects.laas.fr/planning/

@@ -6,7 +6,7 @@ image: "/assets/images/textbooks/heuristic-search-theory-and-applications.jpg"
 ---
 
 {:refdef: style="text-align: center;"}
-![heuristic-search-theory-and-applications](/assets/images/textbooks/heuristic-search-theory-and-applications.jpg)
+![heuristic-search-theory-and-applications]({{site.baseurl}}/assets/images/textbooks/heuristic-search-theory-and-applications.jpg)
 {: refdef}
 
 https://www.elsevier.com/books/heuristic-search/edelkamp/978-0-12-372512-7

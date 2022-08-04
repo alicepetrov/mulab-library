@@ -6,7 +6,7 @@ image: "/assets/images/textbooks/an-introduction-to-the-planning-domain-definiti
 ---
 
 {:refdef: style="text-align: center;"}
-![an-introduction-to-the-planning-domain-definition-language](/assets/images/textbooks/an-introduction-to-the-planning-domain-definition-language.jpg)
+![an-introduction-to-the-planning-domain-definition-language]({{site.baseurl}}/assets/images/textbooks/an-introduction-to-the-planning-domain-definition-language.jpg)
 {: refdef}
 
 https://link.springer.com/book/10.1007/978-3-031-01584-7
