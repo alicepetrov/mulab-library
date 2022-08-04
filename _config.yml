@@ -18,7 +18,7 @@ defaults:
 email: 17ap87@queensu.ca
 description: >
   Work in progress...
-baseurl:
+baseurl: "/mulab-library"
 url:
 twitter_username: alice_petrov_
 github_username:  alicepetrov
