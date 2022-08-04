@@ -7,15 +7,15 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;700&display=swap');
+
+// Font Variables
+$source-code-pro: 'Source Code Pro', monospace;
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "milligram/milligram",
         "base",
         "layout"
 ;
-
-// Google Fonts
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;700&display=swap');
-
-// Font Variables
-$source-code-pro: 'Source Code Pro', monospace;
