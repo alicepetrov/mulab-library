@@ -5,7 +5,7 @@ date: 2022-08-03
 image: "/assets/images/textbooks/automated-planning-theory-and-practice.jpg"
 ---
 
-![automated-planning-theory-and-practice]({{site.baseurl}}/assets/images/textbooks/automated-planning-theory-and-practice.jpg)
+![automated-planning-theory-and-practice]({{site.baseurl}}/assets/images/textbooks/automated-planning-theory-and-practice.jpg){:.centered}
 
 Automated planning technology now plays a significant role in a variety of demanding applications, ranging from controlling space vehicles and robots to playing the game of bridge. These real-world applications create new opportunities for synergy between theory and practice: observing what works well in practice leads to better theories of planning, and better theories lead to better performance of practical applications.
 
