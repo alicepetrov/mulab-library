@@ -13,3 +13,9 @@ $grey-color-dark:  darken($grey-color, 25%);
         "base",
         "layout"
 ;
+
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;700&display=swap');
+
+// Font Variables
+$source-code-pro: 'Source Code Pro', monospace;
